@@ -1,0 +1,8 @@
+Steps to tun the code
+
+1) Install Virtualenv (example: virtualenc twitter )
+2) Begin virtualend ( source twitter/bin/activate )
+3) Install flask ( pip install flask )
+4) Run the app file ( python app.py )
+5) on browser open local host (http://127.0.0.1:5000/search?word=trump)
+with search word at the last.
